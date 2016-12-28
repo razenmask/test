@@ -6,6 +6,8 @@ public class Automationtest {
 		// TODO Auto-generated method stub
 		System.out.println("this is my first git hub test");
 		System.out.println("this is my change to git hub test");
+		System.out.println("changed this in github url");
+		
 	}
 
 }
